@@ -8,7 +8,7 @@ and District Courts.
 
 <a href="https://lawdb.in/income-tax-appellate-tribunal-madras">Income Tax Appellate Tribunal Madras</a>
 
-<a href="https://lawdb.in/income-tax-appellate-tribunal-allahabad">Income Tax Appellate Tribunal Allahbad</a>
+<a href="https://lawdb.in/income-tax-appellate-tribunal-allahabad">Income Tax Appellate Tribunal Allahabad</a>
 
 <a href="https://lawdb.in/trademark-tribunal">Trademark Tribunal</a>
 
