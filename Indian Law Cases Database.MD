@@ -8,15 +8,15 @@ and District Courts.
 
 <a href="https://lawdb.in/calcutta-high-court-appellete-side">Calcutta High Court Appellete Side</a>
 
-<a href="https://lawdb.in/central-administrative-tribunal-jabalpur">Central Administrative Tribunal Ernakulam</a>
+<a href="https://lawdb.in/central-administrative-tribunal-jabalpur">Central Administrative Tribunal Jabalpur</a>
 
 <a href="https://lawdb.in/state-taxation-tribunal-mumbai">State Taxation Tribunal Mumbai</a>
 
 <a href="https://lawdb.in/customs-excise-and-gold-tribunal-bhubneswar">Customs Excise and Gold Tribunal Bhubneswar</a>
 
-<a href="https://lawdb.in/central-administrative-tribunal-gauhati">Central Administrative Tribunal Guahati</a>
+<a href="https://lawdb.in/central-administrative-tribunal-gauhati">Central Administrative Tribunal Gauhati</a>
 
-<a href="https://lawdb.in/debt-recovery-appellate-tribunal-allahabad">Debt Recovery Appllate Tribunal Allahabad</a>
+<a href="https://lawdb.in/debt-recovery-appellate-tribunal-allahabad">Debt Recovery Appellate Tribunal Allahabad</a>
 
 <a href="https://lawdb.in/income-tax-appellate-tribunal-vizag">Income Tax Appellate Tribunal Vizag</a>
 
