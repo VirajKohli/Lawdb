@@ -1,5 +1,5 @@
 Indian Law refer to the system of law which operates in India. It is largely based on English Common Law.Various acts introduced by british are still in effect.
-Indian laws have infruence from America and Europe. Here you can find all the trending cases of Indian Laws.
+Indian laws have influence from America and Europe. Here you can find all the trending cases of Indian Laws.
 
 <a href="https://lawdb.in/income-tax-appellate-tribunal-ahmedabad">Income Tax Appllate Tribunal Ahmedabad</a>
 
