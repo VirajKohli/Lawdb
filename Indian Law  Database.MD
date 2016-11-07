@@ -1,7 +1,7 @@
 LAW refers to the system of rules that a particular country or community recognizes as 
 regulating the actions of its members and may enforce by the imposition of penalties.  Lawdb contains 
-Large Database of Various Cases, Jusgments and Other Decisions made to implement new laws in the country.
-Here you can search of Laws that have been completed in various High Court, Supreme Courts
+Large Database of Various Cases, Judgments and Other Decisions made to implement new laws in the country.
+Here you can search for Laws that have been completed in various High Court, Supreme Courts
 and District Courts.
 
 <a href="https://lawdb.in/debt-recovery-appellate-tribunal-madras">Debt Recovery Appllate Tribunal Madras</a>
